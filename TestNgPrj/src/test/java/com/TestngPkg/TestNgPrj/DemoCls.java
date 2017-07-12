@@ -6,6 +6,7 @@ public class DemoCls {
 		System.out.println("Class1");
 
 		int a=10;
+		System.out.println("Hai");
 		
 	}
 
